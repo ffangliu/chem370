@@ -1,4 +1,4 @@
-name: chem370
+name: notebook
 channels:
   - defaults
 dependencies:
