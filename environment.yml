@@ -1,11 +1,8 @@
 name: notebook
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - ipympl
-  - jupyter
-  - jupyterlab
-  - nb_conda
   - scipy
   - pandas
+  - nb_conda
